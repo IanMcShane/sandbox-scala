@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sandbox-lang/.idea/modules/sandbox-lang.iml" filepath="$PROJECT_DIR$/sandbox-lang/.idea/modules/sandbox-lang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sandbox-lang/.idea/modules/sandbox-lang-build.iml" filepath="$PROJECT_DIR$/sandbox-lang/.idea/modules/sandbox-lang-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sandbox-prj/.idea/modules/sandbox-prj.iml" filepath="$PROJECT_DIR$/sandbox-prj/.idea/modules/sandbox-prj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sandbox-prj/.idea/modules/sandbox-prj-build.iml" filepath="$PROJECT_DIR$/sandbox-prj/.idea/modules/sandbox-prj-build.iml" />
+    </modules>
+  </component>
+</project>
